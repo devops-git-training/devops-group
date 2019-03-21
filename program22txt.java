@@ -1,7 +1,7 @@
 file name:
 file type:
 permission:
-                 i.read     
-                ii.write
-               iii.extucted
+                 i.re -r     
+                ii.wr -w
+               iii.ex -x
 
