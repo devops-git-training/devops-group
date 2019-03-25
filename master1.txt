@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 master file
 updated in preprod branch
+=======
+this is updated in master branch
+>>>>>>> master
