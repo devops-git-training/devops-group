@@ -1,0 +1,7 @@
+This is an example for Merge Concept in Git
+
+Master
+{
+Chicken
+Mutton
+Pork}
