@@ -1,3 +1,5 @@
+iii
+
 
 Edited
 
@@ -15,10 +17,12 @@ hi guys  how is trils
 
 where r u guys 
 try to edit my file
-<<<<<<< HEAD
+
 Updated by Prashanth
-=======
+
 
 hi welcome to team
 updated by raju
->>>>>>> ffd6be78a0ba61f209692100002dd735d3a3c7e8
+
+
+
